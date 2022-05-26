@@ -1,5 +1,3 @@
-// ./db/models/book.js
-
 'use strict';
 module.exports = (sequelize, DataTypes) => {
   const Book = sequelize.define('Book', {
